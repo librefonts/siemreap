@@ -1,0 +1,34 @@
+Fonts
+  Font:
+    Common name: Siemreap
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),
+    Version: Version 6.00 December 28, 2010
+    Designer: Danh Hong
+    Designer url: khmertype.blogspot.com
+    Glyph count: 696
+    Character count: 138
+    Orthographies:
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
